@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add a to-go form to order coffee to takeaway. You can select the time you want it to be ready, and pay online. All you do is come in the shop and pick it up.
