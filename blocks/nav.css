@@ -1,21 +1,35 @@
 .nav {
-    display:flex;
-    justify-content: space-between;
-    font-family: "Inter",Arial, sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .nav__logo {
-    position: relative;
-    left:-50px;
+  position: relative;
+  left: -50px;
+  width: 105px;
+  height: 39px;
 }
 
 .nav__links {
-    display: flex;
-    list-style-type: none;
-    gap: 20px;
-    padding: 0;
-    margin: 0;
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+  color: #000;
+  text-decoration: ;
+}
+
+/* couldn't find color, text decoration, and opacity for the nav in the brief. */
+
+.nav__link {
+  transition: opacity 0.5s;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }
