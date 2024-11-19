@@ -1,6 +1,6 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is a good sample website to use for a small business like a restaurant or coffee shop. In this case, this page was designed for "Triple Peaks Coffee Shop" using HTML and CSS.
 
 ## Project features
 
@@ -11,6 +11,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## How I Would Improve the Project
 
-- Add a to-go form to order coffee to takeaway. You can select the time you want it to be ready, and pay online. All you do is come in the shop and pick it up.
+- Add a to-go form to order coffee to takeaway. User can select the time they want it to be ready, and pay online. All user does is come in the shop and pick it up.
